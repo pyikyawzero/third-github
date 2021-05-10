@@ -1,3 +1,9 @@
 h1{
     color:red;
 }
+div{
+   width:800px;
+   margin-left: auto;
+   margin-right: auto;
+
+}
